@@ -1,10 +1,296 @@
 {
-    "Thursday 19th Nov 2026 - Schedule Time UK GMT": {
-        "All Soccer Events ⚽": [],
-        "Tennis 🎾": [],
-        "Tennis 🎾 ATP - Singles: Finals - Turin (World)": [],
+    "Friday 20th Nov 2026 - Schedule Time UK GMT": {
+        "All Soccer Events ⚽": [
+            {
+                "time": "19:30",
+                "event": "⚽ Bundesliga : Bayern München 🇩🇪 vs Köln 🇩🇪",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport Bundesliga 1",
+                        "channel_id": "558"
+                    },
+                    {
+                        "channel_name": "Sky Sport Top Event DE",
+                        "channel_id": "556"
+                    },
+                    {
+                        "channel_name": "NBC UNIVERSO",
+                        "channel_id": "845"
+                    },
+                    {
+                        "channel_name": "USA Network",
+                        "channel_id": "845"
+                    },
+                    {
+                        "channel_name": "DAZN Eleven 1 Portugal",
+                        "channel_id": "455"
+                    },
+                    {
+                        "channel_name": "Eleven Sports 1 Poland",
+                        "channel_id": "71"
+                    },
+                    {
+                        "channel_name": "beIN Sports 2 France",
+                        "channel_id": "117"
+                    },
+                    {
+                        "channel_name": "Sky Sport Arena IT",
+                        "channel_id": "462"
+                    },
+                    {
+                        "channel_name": "ŠTV 2 Slovenia",
+                        "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "Nova Sport 3 SK",
+                        "channel_id": "1060"
+                    },
+                    {
+                        "channel_name": "Nova Sport 3 CZ",
+                        "channel_id": "1023"
+                    },
+                    {
+                        "channel_name": "beIN Sports 3 Malaysia",
+                        "channel_id": "714"
+                    },
+                    {
+                        "channel_name": "Digi Sport 2 Romania",
+                        "channel_id": "401"
+                    },
+                    {
+                        "channel_name": "Arena 3 Premium Serbia",
+                        "channel_id": "139"
+                    },
+                    {
+                        "channel_name": "V Sport Premium",
+                        "channel_id": "572"
+                    },
+                    {
+                        "channel_name": "Nova Sports 3 Greece",
+                        "channel_id": "633"
+                    },
+                    {
+                        "channel_name": "TV3 MAX Denmark",
+                        "channel_id": "223"
+                    },
+                    {
+                        "channel_name": "Sportv Brazil",
+                        "channel_id": "78"
+                    },
+                    {
+                        "channel_name": "Diema Sport 3 Bulgaria",
+                        "channel_id": "467"
+                    },
+                    {
+                        "channel_name": "ESPN3 Argentina",
+                        "channel_id": "798"
+                    },
+                    {
+                        "channel_name": "Sportklub 1 Croatia",
+                        "channel_id": "101"
+                    },
+                    {
+                        "channel_name": "Sport 1 Israel",
+                        "channel_id": "140"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "⚽ France - Ligue 1 : Troyes 🇫🇷 vs Le Havre 🇫🇷",
+                "channels": [
+                    {
+                        "channel_name": "Ligue1+ France",
+                        "channel_id": "960"
+                    },
+                    {
+                        "channel_name": "Sport TV2 Portugal",
+                        "channel_id": "74"
+                    },
+                    {
+                        "channel_name": "Eleven Sports 2 Poland",
+                        "channel_id": "72"
+                    },
+                    {
+                        "channel_name": "Nova Sport 4 SK",
+                        "channel_id": "1061"
+                    },
+                    {
+                        "channel_name": "Nova Sport 4 CZ",
+                        "channel_id": "1024"
+                    },
+                    {
+                        "channel_name": "Arena Sport 1 Serbia",
+                        "channel_id": "429"
+                    },
+                    {
+                        "channel_name": "Arena Sport 1 Croatia",
+                        "channel_id": "432"
+                    },
+                    {
+                        "channel_name": "V Sport Extra",
+                        "channel_id": "167"
+                    },
+                    {
+                        "channel_name": "Nova Sport Bulgaria",
+                        "channel_id": "468"
+                    },
+                    {
+                        "channel_name": "beIN SPORTS Xtra",
+                        "channel_id": "100"
+                    },
+                    {
+                        "channel_name": "beIN Sports MENA 4",
+                        "channel_id": "94"
+                    },
+                    {
+                        "channel_name": "5Plus Israel",
+                        "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Ligue1+ (FR)",
+                        "channel_id": "3050"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "⚽ Spain - La Liga : Athletic Club 🇪🇸 vs Espanyol 🇪🇸",
+                "channels": [
+                    {
+                        "channel_name": "M. LaLiga",
+                        "channel_id": "84"
+                    },
+                    {
+                        "channel_name": "Viaplay Sports 1 UK",
+                        "channel_id": "451"
+                    },
+                    {
+                        "channel_name": "Premier Sports 1 Ireland",
+                        "channel_id": "771"
+                    },
+                    {
+                        "channel_name": "DAZN Eleven 2 Portugal",
+                        "channel_id": "456"
+                    },
+                    {
+                        "channel_name": "DAZN ZONA 1 IT",
+                        "channel_id": "877"
+                    },
+                    {
+                        "channel_name": "Canal+ Sport 2 Poland",
+                        "channel_id": "73"
+                    },
+                    {
+                        "channel_name": "Canal+ Sport 6 Poland",
+                        "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Digi Sport 3 Romania",
+                        "channel_id": "402"
+                    },
+                    {
+                        "channel_name": "Prima Sport 2 Romania",
+                        "channel_id": "584"
+                    },
+                    {
+                        "channel_name": "Nova Sport 6 CZ",
+                        "channel_id": "1026"
+                    },
+                    {
+                        "channel_name": "Ziggo Sport 2 NL",
+                        "channel_id": "398"
+                    },
+                    {
+                        "channel_name": "beIN Sports Malaysia",
+                        "channel_id": "712"
+                    },
+                    {
+                        "channel_name": "Match TV Russia",
+                        "channel_id": "127"
+                    },
+                    {
+                        "channel_name": "Match! Football 2 Russia",
+                        "channel_id": "137"
+                    },
+                    {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "375"
+                    },
+                    {
+                        "channel_name": "Arena 4 Premium Serbia",
+                        "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "MagentaSport 3 League Greece",
+                        "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "DSports 2 Argentina",
+                        "channel_id": "620"
+                    },
+                    {
+                        "channel_name": "MAX Sport 4 Bulgaria",
+                        "channel_id": "475"
+                    },
+                    {
+                        "channel_name": "SuperSport Laliga",
+                        "channel_id": "415"
+                    },
+                    {
+                        "channel_name": "Sportklub 5 Croatia",
+                        "channel_id": "156"
+                    },
+                    {
+                        "channel_name": "beIN Sports MENA 1",
+                        "channel_id": "91"
+                    },
+                    {
+                        "channel_name": "ESPN Deportes (ES)",
+                        "channel_id": "3086"
+                    }
+                ]
+            }
+        ],
+        "Tennis 🎾": [
+            {
+                "time": "19:30",
+                "event": "🎾 ATP Finals (Turin) 🇮🇹",
+                "channels": [
+                    {
+                        "channel_name": "Sportklub 2 Croatia",
+                        "channel_id": "102"
+                    }
+                ]
+            }
+        ],
+        "Billie Jean King Cup Tennis 🎾": [],
+        "Tennis 🎾 ATP - Singles: Finals - Turin (World)": [
+            {
+                "time": "19:30",
+                "event": "🎾 ATP - Singles: 🇷🇺 Daniil Medvedev vs 🇺🇸 Frances Tiafoe",
+                "channels": [
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1074"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1664"
+                    }
+                ]
+            }
+        ],
+        "Tennis 🎾 WTA - Singles: Billie Jean King Cup - World Group (World)": [],
         "Tennis 🎾 ATP - Doubles: Finals - Turin (World)": [],
-        "Tennis 🎾 Challenger Men - Singles: Helsinki (Finland)": [],
-        "Tennis 🎾 Challenger Men - Doubles: Helsinki (Finland)": []
+        "Tennis 🎾 Challenger Men - Singles: Helsinki (Finland)": []
     }
 }
