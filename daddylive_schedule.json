@@ -1,66 +1,45 @@
 {
-    "Saturday 21st Nov 2026 - Schedule Time UK GMT": {
-        "Major League Soccer (MLS) ⚽": [],
-        "U18 Premier League Soccer ⚽": [],
-        "USL Soccer ⚽": [],
+    "Sunday 22nd Nov 2026 - Schedule Time UK GMT": {
         "All Soccer Events ⚽": [
             {
-                "time": "18:30",
-                "event": "⚽ Austria - Bundesliga : Grazer AK 🇦🇹 vs Rapid Wien 🇦🇹",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport Austria 1",
-                        "channel_id": "559"
-                    },
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "1219"
-                    },
-                    {
-                        "channel_name": "Sportklub 3 Croatia",
-                        "channel_id": "103"
-                    }
-                ]
-            },
-            {
                 "time": "19:45",
-                "event": "⚽ Italy - Serie A : Napoli 🇮🇹 vs Torino 🇮🇹",
+                "event": "⚽ Italy - Serie A : Atalanta 🇮🇹 vs Internazionale 🇮🇹",
                 "channels": [
                     {
                         "channel_name": "Paramount+",
-                        "channel_id": "77"
+                        "channel_id": "107"
                     },
                     {
-                        "channel_name": "Sky Sport 251 IT",
-                        "channel_id": "204"
+                        "channel_name": "TNT Sports 1 UK",
+                        "channel_id": "31"
+                    },
+                    {
+                        "channel_name": "DAZN ZONA 1 IT",
+                        "channel_id": "877"
                     },
                     {
                         "channel_name": "DAZN IT",
-                        "channel_id": "156"
+                        "channel_id": "108"
                     },
                     {
-                        "channel_name": "Sky Sport Calcio IT",
-                        "channel_id": "870"
+                        "channel_name": "CBS Sports Golazo Network",
+                        "channel_id": "910"
                     },
                     {
-                        "channel_name": "Sky Sport Uno IT",
-                        "channel_id": "461"
-                    },
-                    {
-                        "channel_name": "Sport TV3 Portugal",
-                        "channel_id": "454"
+                        "channel_name": "Sport TV2 Portugal",
+                        "channel_id": "74"
                     },
                     {
                         "channel_name": "Eleven Sports 1 Poland",
                         "channel_id": "71"
                     },
                     {
-                        "channel_name": "Sport 1 CZ",
-                        "channel_id": "1034"
+                        "channel_name": "Match TV Russia",
+                        "channel_id": "127"
                     },
                     {
-                        "channel_name": "Telemundo",
-                        "channel_id": "131"
+                        "channel_name": "Match! Football 1 Russia",
+                        "channel_id": "136"
                     },
                     {
                         "channel_name": "Ziggo Sport 2 NL",
@@ -71,28 +50,24 @@
                         "channel_id": "124"
                     },
                     {
-                        "channel_name": "Match! Football 1 Russia",
-                        "channel_id": "136"
+                        "channel_name": "Telemundo",
+                        "channel_id": "131"
                     },
                     {
-                        "channel_name": "Polsat Sport Premium 2 Poland",
-                        "channel_id": "992"
+                        "channel_name": "Digi Sport 2 Romania",
+                        "channel_id": "401"
                     },
                     {
-                        "channel_name": "Prima Sport 3 Romania",
-                        "channel_id": "585"
+                        "channel_name": "Prima Sport 2 Romania",
+                        "channel_id": "584"
                     },
                     {
-                        "channel_name": "ESPN4 Brazil",
-                        "channel_id": "835"
+                        "channel_name": "Sport 1 CZ",
+                        "channel_id": "1034"
                     },
                     {
                         "channel_name": "Arena 2 Premium Serbia",
                         "channel_id": "135"
-                    },
-                    {
-                        "channel_name": "Cytavision Sports 4",
-                        "channel_id": "914"
                     },
                     {
                         "channel_name": "MagentaSport 1 Greece",
@@ -103,90 +78,94 @@
                         "channel_id": "808"
                     },
                     {
+                        "channel_name": "Cytavision Sports 4 Cyprus",
+                        "channel_id": "914"
+                    },
+                    {
+                        "channel_name": "ESPN2 Argentina",
+                        "channel_id": "150"
+                    },
+                    {
                         "channel_name": "Arena Sport 1 Croatia",
                         "channel_id": "432"
+                    },
+                    {
+                        "channel_name": "TV4 Fotball",
+                        "channel_id": "747"
                     },
                     {
                         "channel_name": "MAX Sport 3 Bulgaria",
                         "channel_id": "474"
                     },
                     {
-                        "channel_name": "SuperSport Football",
-                        "channel_id": "56"
+                        "channel_name": "ESPN Brazil",
+                        "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4009"
                     }
                 ]
             },
             {
                 "time": "19:45",
-                "event": "⚽ France - Ligue 1 : Simulcast 🇫🇷",
+                "event": "⚽ France - Ligue 1 : Olympique Marseille 🇫🇷 vs Le Mans 🇫🇷",
                 "channels": [
                     {
                         "channel_name": "Ligue1+ France",
                         "channel_id": "960"
-                    }
-                ]
-            },
-            {
-                "time": "19:45",
-                "event": "⚽ France - Ligue 1 : Lens 🇫🇷 vs Toulouse 🇫🇷",
-                "channels": [
-                    {
-                        "channel_name": "Ligue1+ 4 France",
-                        "channel_id": "207"
                     },
                     {
-                        "channel_name": "Eleven Sports 3 Poland",
-                        "channel_id": "428"
-                    },
-                    {
-                        "channel_name": "Arena Sport 4 Serbia",
-                        "channel_id": "581"
-                    },
-                    {
-                        "channel_name": "beIN SPORTS XTRA",
-                        "channel_id": "100"
-                    },
-                    {
-                        "channel_name": "beIN Sports 4 Turkey",
-                        "channel_id": "67"
-                    },
-                    {
-                        "channel_name": "beIN Sports MENA 3",
-                        "channel_id": "93"
-                    }
-                ]
-            },
-            {
-                "time": "19:45",
-                "event": "⚽ France - Ligue 1 : Lille 🇫🇷 vs Olympique Lyonnais 🇫🇷",
-                "channels": [
-                    {
-                        "channel_name": "Ligue1+ 3 France",
-                        "channel_id": "209"
+                        "channel_name": "beIN SPORTS USA",
+                        "channel_id": "425"
                     },
                     {
                         "channel_name": "beIN SPORTS en Español",
                         "channel_id": "372"
                     },
                     {
-                        "channel_name": "Nova Sport 3 SK",
-                        "channel_id": "1060"
+                        "channel_name": "beIN Sports 3 Turkey",
+                        "channel_id": "64"
                     },
                     {
-                        "channel_name": "Nova Sport 3 CZ",
-                        "channel_id": "1023"
+                        "channel_name": "Sport TV4 Portugal",
+                        "channel_id": "289"
                     },
                     {
                         "channel_name": "Eleven Sports 2 Poland",
                         "channel_id": "72"
                     },
                     {
-                        "channel_name": "Arena 4 Premium Serbia",
-                        "channel_id": "13"
+                        "channel_name": "Nova Sport 3 SK",
+                        "channel_id": "1060"
                     },
                     {
-                        "channel_name": "Arena Sport 2 Croatia",
-                        "channel_id": "433"
+                        "channel_name": "V Sport Premium",
+                        "channel_id": "572"
+                    },
+                    {
+                        "channel_name": "Nova Sport 3 CZ",
+                        "channel_id": "1023"
+                    },
+                    {
+                        "channel_name": "Arena 4 Premium Serbia",
+                        "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Arena Sport 3 Croatia",
+                        "channel_id": "434"
                     },
                     {
                         "channel_name": "Diema Sport 2 Bulgaria",
@@ -197,70 +176,30 @@
                         "channel_id": "92"
                     },
                     {
-                        "channel_name": "5Plus Israel",
-                        "channel_id": "145"
-                    }
-                ]
-            },
-            {
-                "time": "19:45",
-                "event": "⚽ France - Ligue 1 : Monaco 🇫🇷 vs Auxerre 🇫🇷",
-                "channels": [
-                    {
-                        "channel_name": "Ligue1+ 5 France",
-                        "channel_id": "208"
+                        "channel_name": "beIN Sports MENA English 1",
+                        "channel_id": "61"
                     },
                     {
-                        "channel_name": "beIN SPORTS USA",
-                        "channel_id": "425"
+                        "channel_name": "5Stars Israel",
+                        "channel_id": "147"
                     },
                     {
-                        "channel_name": "Arena Sport 2 Serbia",
-                        "channel_id": "430"
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     },
                     {
-                        "channel_name": "V Sport Football",
-                        "channel_id": "29"
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003"
                     },
                     {
-                        "channel_name": "Diema Sport 3 Bulgaria",
-                        "channel_id": "467"
-                    },
-                    {
-                        "channel_name": "beIN Sports 3 Turkey",
-                        "channel_id": "64"
-                    },
-                    {
-                        "channel_name": "beIN Sports MENA 4",
-                        "channel_id": "94"
-                    }
-                ]
-            },
-            {
-                "time": "19:45",
-                "event": "⚽ France - Ligue 1 : Strasbourg 🇫🇷 vs Brest 🇫🇷",
-                "channels": [
-                    {
-                        "channel_name": "Ligue1+ 6 France",
-                        "channel_id": "212"
-                    },
-                    {
-                        "channel_name": "Sport TV4 Portugal",
-                        "channel_id": "289"
-                    },
-                    {
-                        "channel_name": "Arena Sport 8 Serbia",
-                        "channel_id": "943"
-                    },
-                    {
-                        "channel_name": "beIN Sports MENA 5",
-                        "channel_id": "95"
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
             {
                 "time": "20:00",
-                "event": "⚽ Spain - La Liga : Real Madrid 🇪🇸 vs Celta de Vigo 🇪🇸",
+                "event": "⚽ Spain - La Liga : Getafe 🇪🇸 vs Atlético Madrid 🇪🇸",
                 "channels": [
                     {
                         "channel_name": "M+ LALIGA TV",
@@ -268,27 +207,39 @@
                     },
                     {
                         "channel_name": "ESPN+ USA",
-                        "channel_id": "106"
+                        "channel_id": "109"
+                    },
+                    {
+                        "channel_name": "Viaplay Sports 1 UK",
+                        "channel_id": "451"
+                    },
+                    {
+                        "channel_name": "Premier Sports 1 Ireland",
+                        "channel_id": "771"
                     },
                     {
                         "channel_name": "DAZN Eleven 1 Portugal",
                         "channel_id": "455"
                     },
                     {
+                        "channel_name": "Canal+ Sport Poland",
+                        "channel_id": "48"
+                    },
+                    {
                         "channel_name": "Canal+ Sport 6 Poland",
-                        "channel_id": "15"
+                        "channel_id": "11"
                     },
                     {
                         "channel_name": "Ziggo Sport 1 NL",
                         "channel_id": "393"
                     },
                     {
-                        "channel_name": "Match! Football 2 Russia",
-                        "channel_id": "137"
+                        "channel_name": "beIN Sports Malaysia",
+                        "channel_id": "712"
                     },
                     {
-                        "channel_name": "DAZN ZONA 1 IT",
-                        "channel_id": "877"
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "375"
                     },
                     {
                         "channel_name": "Nova Sport 4 SK",
@@ -299,40 +250,36 @@
                         "channel_id": "1024"
                     },
                     {
-                        "channel_name": "beIN Sports Malaysia",
-                        "channel_id": "712"
+                        "channel_name": "Match! Football 2 Russia",
+                        "channel_id": "137"
                     },
                     {
-                        "channel_name": "Digi Sport 2 Romaniaa",
-                        "channel_id": "401"
+                        "channel_name": "ESPN Argentina",
+                        "channel_id": "149"
                     },
                     {
-                        "channel_name": "Prima Sport 2 Romania",
-                        "channel_id": "584"
+                        "channel_name": "Arena 3 Premium Serbia",
+                        "channel_id": "139"
                     },
                     {
-                        "channel_name": "ESPN Deportes",
-                        "channel_id": "375"
+                        "channel_name": "Digi Sport 3 Romania",
+                        "channel_id": "402"
                     },
                     {
-                        "channel_name": "TV 2 Sport Norway",
-                        "channel_id": "812"
-                    },
-                    {
-                        "channel_name": "Arena 1 Premium Serbia",
-                        "channel_id": "134"
+                        "channel_name": "Prima Sport 3 Romania",
+                        "channel_id": "585"
                     },
                     {
                         "channel_name": "MagentaSport 3 League Greece",
-                        "channel_id": "14"
+                        "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Canal+ Sport 3 Afrique",
+                        "channel_id": "488"
                     },
                     {
                         "channel_name": "MAX Sport 4 Bulgaria",
                         "channel_id": "475"
-                    },
-                    {
-                        "channel_name": "ESPN3 Argentina",
-                        "channel_id": "798"
                     },
                     {
                         "channel_name": "SuperSport Laliga",
@@ -347,96 +294,55 @@
                         "channel_id": "101"
                     },
                     {
-                        "channel_name": "beIN Sports MENA English 1",
-                        "channel_id": "61"
-                    }
-                ]
-            }
-        ],
-        "Tennis 🎾": [
-            {
-                "time": "19:30",
-                "event": "🎾 ATP Finals (Turin): 1/2 Final B 🇮🇹",
-                "channels": [
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
+                    },
                     {
-                        "channel_name": "Sportklub 2 Croatia",
-                        "channel_id": "102"
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             }
         ],
+        "Tennis 🎾": [],
         "Tennis Billie Jean King Cup 🎾": [],
-        "Tennis 🎾 ATP - Singles: Finals - Turin (World)": [
-            {
-                "time": "19:30",
-                "event": "🎾 ATP - Singles: 🇩🇪 Alexander Zverev vs 🇷🇺 Daniil Medvedev",
-                "channels": [
-                    {
-                        "channel_name": "Tennis HD Stream",
-                        "channel_id": "1074"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1507"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1520"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1673"
-                    }
-                ]
-            }
-        ],
+        "Tennis 🎾 ATP - Singles: Finals - Turin (World)": [],
         "Tennis 🎾 WTA - Singles: Billie Jean King Cup - World Group (World)": [
             {
-                "time": "18:30",
-                "event": "🎾 WTA - Singles: 🇺🇸 Coco Gauff vs 🇭🇺 Dalma Galfi",
-                "channels": [
-                    {
-                        "channel_name": "Tennis HD Stream",
-                        "channel_id": "1090"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1671"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "🎾 WTA - Singles: N. V. Leme Da Silva vs K. Cross",
-                "channels": [
-                    {
-                        "channel_name": "Tennis HD Stream",
-                        "channel_id": "1089"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1672"
-                    }
-                ]
-            },
-            {
                 "time": "20:00",
-                "event": "🎾 WTA - Singles: 🇺🇸 Ann Li vs 🇭🇺 Anna Bondar",
+                "event": "🎾 WTA - Singles: 🇺🇸 Coco Gauff vs 🇭🇺 Anna Bondar",
                 "channels": [
                     {
                         "channel_name": "Tennis HD Stream",
-                        "channel_id": "1091"
+                        "channel_id": "1083"
                     },
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1674"
+                        "channel_id": "1663"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "🎾 WTA - Singles: 🇺🇸 Ann Li vs 🇭🇺 Dalma Galfi",
+                "channels": [
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1084"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1664"
                     }
                 ]
             }
         ],
         "Tennis 🎾 ATP - Doubles: Finals - Turin (World)": [],
         "Tennis 🎾 WTA - Doubles: Billie Jean King Cup - World Group (World)": [],
-        "Tennis 🎾 Challenger Men - Singles: Helsinki (Finland)": [],
-        "Tennis 🎾 Challenger Men - Doubles: Helsinki (Finland)": []
+        "Tennis 🎾 Challenger Men - Singles: Helsinki (Finland)": []
     }
 }
