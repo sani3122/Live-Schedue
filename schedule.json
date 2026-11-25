@@ -1,615 +1,9 @@
 {
-  "updated": "2026-11-25 04:30 VN",
+  "updated": "2026-11-26 03:37 VN",
   "days": {
-    "20261125": {
-      "date": "Wednesday, 25/11",
+    "20261126": {
+      "date": "Thursday, 26/11",
       "games": [
-        {
-          "league": "UEFA Champions League",
-          "match": "Real Madrid - PSV",
-          "kick_utc": 1795550400,
-          "time": "25/11 03:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "beIN Sports 1 HD",
-                "Prima Sport RO 1 HD",
-                "Blue Sport 4 Live HDR",
-                "HBO Max",
-                "RTL+ Hungary",
-                "TSN Malta 7 HD",
-                "TV3 Sport Dansk HD",
-                "Orange Fútbol 1 HD",
-                "Play Sports 4 Belgium",
-                "Movistar Plus+ HD",
-                "ViaPlay Sverige HD",
-                "TUDN",
-                "Arena Sport 1 BiH HD",
-                "Q Sport League HD",
-                "DAZN Canada",
-                "Paramount+",
-                "Cytavision Sports 6 HD",
-                "beIN Sports MENA 1 HD",
-                "Digi Sport 1 Romania HD",
-                "Sky Sport 255 Italia HD",
-                "ART Motion Sport 1 HD",
-                "TNT Sports 9",
-                "TV2 Play Norge",
-                "TNT Sports 2 HD",
-                "Ziggo Sport 2",
-                "DAZN Portugal",
-                "ViX",
-                "MTV Urheilu 3 Suomi HD",
-                "UniMás",
-                "SuperSport MáXimo 3A HD",
-                "UniMás USA",
-                "Arena Sport 6 Hrvatska HD",
-                "Arena Sport 1 Srbija HD",
-                "Blue Sport 6 Live HD",
-                "Sky Sport 5 Austria HD",
-                "Canal+ Live 2 France HD",
-                "Sky Sport MIX Italia HD",
-                "SuperSport PSL HD",
-                "SuperSport Action HD",
-                "Tring Sport 3 HD",
-                "TUDN Español USA",
-                "Canal+ Sport France HD",
-                "Sport TV Azerbaijan",
-                "Magenta Hellas Sport 5 HD",
-                "Premier Sports 3 Mongolia HD",
-                "Digi 4K UHD",
-                "ViaPlay Danmark HD",
-                "Pickx+ Sports 4 HD",
-                "GEM Sport 1 HD",
-                "DAZN 1 Portugal HD",
-                "V Sport 1 Sverige HD",
-                "MAX Sport 2 Bulgaria HD",
-                "Blue Sport D 2 HD",
-                "Persiana Sport HD",
-                "CBC Sport HD",
-                "M+ Liga de Campeones HD",
-                "beIN Sports MENA English 1 HD",
-                "New World Sport 3 Togo",
-                "beIN Sports MENA French 1 HD",
-                "Canal+ Extra 1 Polska HD",
-                "Fast Sports 1 Armenia",
-                "IRIB Varzesh HD",
-                "Kanal A Slovenija HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Manchester City - Napoli",
-          "kick_utc": 1795550400,
-          "time": "25/11 03:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Arena Premium 3 Srbija HD",
-                "ART Motion Sport 3 HD",
-                "V Sport Football HD",
-                "HBO Max",
-                "beIN Sports 3 HD",
-                "TNT Sports 1 HD",
-                "ViaPlay Sverige HD",
-                "VTM 2 Belgium HD",
-                "beIN Sports MENA English 2 HD",
-                "DAZN 2 Portugal HD",
-                "TSN Malta 5 HD",
-                "Virgin Media TV",
-                "Fast Sports 2 Armenia",
-                "Arena Premium 2 BiH HD",
-                "DAZN Canada",
-                "Arena Sport 3 Hrvatska HD",
-                "SportKlub 1 Slovenija HD",
-                "Arena M3 Premium MKD HD",
-                "TV2 Play Norge",
-                "Sport TV 2 Azerbaijan",
-                "DAZN Portugal",
-                "Virgin Media Two HD",
-                "Megogo Futbol 2",
-                "Canal+ Extra 3 Polska HD",
-                "DAZN",
-                "beIN Sports MENA 3 HD",
-                "New World Sport 2 Mauritius",
-                "SuperSport Premier League HD",
-                "Digi Sport 3 Romania",
-                "Canal+ Live 3 France HD",
-                "ViaPlay Sport News Dansk",
-                "Cytavision Sports 5 HD",
-                "Magenta Hellas Sport 4 HD",
-                "Sport 2 Hungary HD",
-                "Tring Sport 2 HD",
-                "Zor TV Uzbekistan",
-                "ViaPlay Danmark HD",
-                "Ziggo Sport 5",
-                "Prima Sport RO 3 HD",
-                "M+ Liga de Campeones 5",
-                "TNT Sports Ultimate UHD",
-                "Persiana Sports 2 HD",
-                "Sky Sport Uno Italia HD",
-                "Pickx+ Sports 2 HD",
-                "RTL Club Belgique",
-                "MAX Sport 4 Bulgaria HD",
-                "Sky Sport 4 Austria HD",
-                "Sony Sports TEN 1 India HD",
-                "Sky Sport 252 Italia HD",
-                "Virgin Media PLAY",
-                "SuperSport MáXimo 2A HD",
-                "MTV Urheilu 1 Suomi HD",
-                "Premier Sports 1 Mongolia HD",
-                "Paramount+",
-                "Blue Sport 1 Live HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Arsenal FC - Borussia Dortmund",
-          "kick_utc": 1795550400,
-          "time": "25/11 03:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Paramount+",
-                "ViX",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Feyenoord - Porto",
-          "kick_utc": 1795550400,
-          "time": "25/11 03:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "HBO Max",
-                "RTL+ Hungary",
-                "Megogo Sport Ukraine HD",
-                "ViaPlay Sverige HD",
-                "Q Sport Football HD",
-                "Sport TV5 Portugal HD",
-                "DAZN Canada",
-                "Prima Sport RO 5 HD",
-                "TSN Malta 4 HD",
-                "Tring Sport 5 HD",
-                "TV2 Play Norge",
-                "TV3 MAX Dansk HD",
-                "New World Sport 4 Togo",
-                "Megogo Futbol 7",
-                "ViX",
-                "Canal+ Live 5 France HD",
-                "Magenta Hellas Sport 6 HD",
-                "Play Sports 5 Belgium",
-                "Sky Sport 256 Italia HD",
-                "SuperSport Kickoff HD",
-                "Ziggo Sport 1 HD",
-                "Canal+ 360 Polska HD",
-                "M+ Liga de Campeones 6",
-                "MAX Sport 1 Bulgaria HD",
-                "SuperSport MáXimo 360",
-                "Pickx+ Sports 6 HD",
-                "Blue Sport 4 Live HD",
-                "beIN Sports MENA 6 HD",
-                "Arena Sport 2 Srbija HD",
-                "Arena Sport 7 Hrvatska HD",
-                "ViaPlay Danmark HD",
-                "Arena M2 Premium MKD HD",
-                "TNT Sports 7",
-                "Arena Sport 3 BiH HD",
-                "CBS Golazo Network",
-                "ART Motion Sport 5 HD",
-                "Canal+ Sport 6 Polska HD",
-                "Paramount+"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "RB Leipzig - Lens",
-          "kick_utc": 1795550400,
-          "time": "25/11 03:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "HBO Max",
-                "ViaPlay Sverige HD",
-                "TSN Malta 6 HD",
-                "Canal+ Foot HD",
-                "Canal+ Live 1 France HD",
-                "TNT Sports 6",
-                "Arena Sport 5 Srbija HD",
-                "DAZN Canada",
-                "Sky Sport 257 Italia HD",
-                "Cytavision Sports 7 HD",
-                "TV2 Play Norge",
-                "DAZN Portugal",
-                "SuperSport Football HD",
-                "ViX",
-                "Prima Sport RO PPV 2",
-                "Arena Sport 8 Hrvatska HD",
-                "Premier Sports 4 Mongolia HD",
-                "Blue Sport 3 Live HD",
-                "New World Sport 5 Togo",
-                "ViaPlay Danmark HD",
-                "Arena Sport 4 BiH HD",
-                "Megogo Futbol 5",
-                "Sky Sport 6 Austria HD",
-                "Play Sports Golf Belgium",
-                "beIN Sports MENA 8 HD",
-                "M+ Liga de Campeones 8",
-                "Canal+ Extra 5 Polska HD",
-                "ART Motion Sport 6 HD",
-                "DAZN 1 Bar Deutsch HD",
-                "Magenta Hellas Sport 7 HD",
-                "Pickx+ Sports 7 HD",
-                "Paramount+"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Slovan Bratislava - Real Betis",
-          "kick_utc": 1795550400,
-          "time": "25/11 03:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "HBO Max",
-                "Magenta Hellas Sport 8 HD",
-                "Arena Sport 4 Srbija HD",
-                "TSN Malta 7 HD",
-                "TSN Malta 8 HD",
-                "ViaPlay Sverige HD",
-                "TNT Sports 5 HD",
-                "Sky Sport 8 Austria HD",
-                "Play Sports 6 Belgium",
-                "Pickx+ Sports 8",
-                "DAZN Canada",
-                "Canal+ Live 7 France HD",
-                "ART Motion PRIME",
-                "New World Sport 7 Togo",
-                "TV2 Play Norge",
-                "DAZN Portugal",
-                "ViX",
-                "Canal+ Extra 7 Polska HD",
-                "Blue Sport 5 Live HD",
-                "Megogo Futbol 8",
-                "Tring Sport 6 HD",
-                "ViaPlay Danmark HD",
-                "SuperSport Extra HD",
-                "beIN Sports MENA 9 HD",
-                "Arena Sport 5 BiH HD",
-                "Prima Sport RO PPV 1",
-                "Arena Sport 10 Hrvatska HD",
-                "Sky Sport 258 Italia HD",
-                "M+ Liga de Campeones 2 HD",
-                "Paramount+"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Como - AEK Athens",
-          "kick_utc": 1795550400,
-          "time": "25/11 03:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Paramount+",
-                "ViX",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Arsenal vs Borussia Dortmund",
-          "kick_utc": 1795550400,
-          "time": "25/11 03:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Arena M1 Premium MKD HD",
-                "Arena Premium 1 BiH HD",
-                "Arena Premium 2 Srbija HD",
-                "Arena Premium 2 Srbija HD",
-                "Arena Premium 2 Srbija HD",
-                "Arena Sport 1 Hrvatska HD",
-                "ART Motion Sport 2 HD",
-                "beIN Sports 2 HD",
-                "beIN Sports MENA 4 HD",
-                "beIN Sports MENA 4 HD",
-                "beIN Sports MENA French 1 HD",
-                "Blue Sport 1 Live UHD",
-                "Blue Sport 3 Live HDR",
-                "Blue Sport D 1 HD",
-                "Canal+ Extra 1 Polska HD",
-                "Canal+ Live 4 France HD",
-                "Cytavision Sports 4 HD",
-                "Cytavision Sports 4K 2 UHD",
-                "DAZN 3 Portugal HD",
-                "DAZN Portugal",
-                "Digi Sport 2 Romania HD",
-                "Digi Sport 2 Romania HD",
-                "Fast Sports TV Armenia",
-                "Ictimai TV HD",
-                "Ictimai TV HD",
-                "M+ Liga de Campeones 3 HD",
-                "M+ Liga de Campeones 3 HD",
-                "Magenta Hellas Sport 3 HD",
-                "Magenta Hellas Sport 3 HD",
-                "MAX Sport 3 Bulgaria HD",
-                "MAX Sport 3 Bulgaria HD",
-                "MAX Sport 3 Bulgaria HD",
-                "MAX Sport 3 Bulgaria HD",
-                "MAX Sport 3 Bulgaria HD",
-                "MAX Sport 3 Bulgaria HD",
-                "Megogo Futbol 1",
-                "MTV Urheilu 2 Suomi HD",
-                "New World Sport 1 Mauritius",
-                "Okko Prime Sport HD",
-                "Persiana Sports 3 HD",
-                "Pickx+ Sports 3 HD",
-                "Play Sports 3 Belgium",
-                "Premier Sports 1 Ireland HD",
-                "Premier Sports 2 Mongolia HD",
-                "Premier Sports 2 Mongolia HD",
-                "Prima Sport RO 2 HD",
-                "Prima Sport RO 2 HD",
-                "Prima Sport RO 2 HD",
-                "Prima Sport RO 2 HD",
-                "Prime Video UK",
-                "QazSport HD",
-                "QazSport HD",
-                "QazSport HD",
-                "QazSport HD",
-                "QazSport HD",
-                "QazSport HD",
-                "Sky Sport 254 Italia HD",
-                "Sky Sport 254 Italia HD",
-                "Sky Sport 3 Austria HD",
-                "Sky Sport Calcio HD",
-                "Sony Sports TEN 4 India HD",
-                "Sport 1 Hungary HD",
-                "Sport 1 Hungary HD",
-                "Sport 1 Hungary HD",
-                "Sport 1 Hungary HD",
-                "Sport 1 Hungary HD",
-                "SportKlub 2 Slovenija",
-                "SuperSport Football Plus HD",
-                "SuperSport Football Plus HD",
-                "SuperSport MáXimo 1 HD",
-                "SuperSport MáXimo 1 HD",
-                "Tring Sport 1 HD",
-                "TSN Malta 2 HD",
-                "TV2 Play Norge",
-                "TV3+ Dansk HD",
-                "TV3+ Dansk HD",
-                "TVNet Sport Azerbaijan",
-                "V Sport Premium HD",
-                "V Sport Ultra 4K UHD",
-                "ViaPlay Danmark HD",
-                "ViaPlay Sverige HD",
-                "We Sport Moldova",
-                "Ziggo Sport 3"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Como 1907 vs AEK Athens",
-          "kick_utc": 1795550400,
-          "time": "25/11 03:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Arena Premium 3 BiH HD",
-                "Arena Sport 3 Srbija HD",
-                "Arena Sport 5 Hrvatska HD",
-                "ART Motion Sport 4 HD",
-                "beIN Sports MENA 5 HD",
-                "beIN Sports MENA 5 HD",
-                "Blue Sport 2 Live HD",
-                "Canal+ Extra 6 Polska HD",
-                "Canal+ Live 6 France HD",
-                "Cytavision Sports 3 HD",
-                "Cytavision Sports 4K 1 UHD",
-                "DAZN 4 Portugal HD",
-                "DAZN Portugal",
-                "Digi Sport 4 Romania",
-                "HBO Max",
-                "M+ Liga de Campeones 7",
-                "Magenta Hellas Sport 2 HD",
-                "Magenta Hellas Sport 2 HD",
-                "Megogo Futbol 6",
-                "New World Sport 6 Togo",
-                "Pickx+ Sports 5 HD",
-                "Play Sports 7 Belgium",
-                "Premier Sports 5 Mongolia HD",
-                "Premier Sports 5 Mongolia HD",
-                "Prima Sport RO 4 HD",
-                "Prima Sport RO 4 HD",
-                "Q Sport Arena HD",
-                "Q Sport Arena HD",
-                "RTL+ Hungary",
-                "Sky Sport 253 Italia HD",
-                "Sky Sport 253 Italia HD",
-                "Sky Sport 7 Austria HD",
-                "Sky Sport Arena Italia HD",
-                "SportKlub 5 Slovenija",
-                "SuperSport Kickoff HD",
-                "SuperSport Kickoff HD",
-                "SuperSport LaLiga HD",
-                "SuperSport LaLiga HD",
-                "TNT Sports 4 HD",
-                "TNT Sports 4 HD",
-                "TNT Sports 8",
-                "TSN Malta 3 HD",
-                "TV2 Play Norge",
-                "V Sport Extra Sverige HD",
-                "ViaPlay Danmark HD",
-                "ViaPlay Sverige HD",
-                "Ziggo Sport 6"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Slavia Praha - Villarreal",
-          "kick_utc": 1795628700,
-          "time": "26/11 12:45 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Arena Premium 3 Srbija HD",
-                "HBO Max",
-                "Canal+ Extra 2 Polska HD",
-                "ViaPlay Sverige HD",
-                "Play Sports 4 Belgium",
-                "Cytavision Sports 4K 2 UHD",
-                "TNT Sports 5 HD",
-                "Cytavision Sports 4 HD",
-                "beIN Sports MENA English 2 HD",
-                "DAZN 2 Portugal HD",
-                "DAZN Canada",
-                "Arena Sport 3 Hrvatska HD",
-                "beIN Sports MENA 4 HD",
-                "TV2 Play Norge",
-                "TV3 MAX Dansk HD",
-                "Ziggo Sport 2",
-                "DAZN Portugal",
-                "ViX",
-                "Megogo Futbol 3",
-                "SuperSport Premier League HD",
-                "Digi Sport 3 Romania",
-                "Canal+ Live 3 France HD",
-                "Canal+ Sport France HD",
-                "Sport 2 Hungary HD",
-                "Magenta Hellas Sport 4 HD",
-                "Prima Sport RO 2 HD",
-                "Tring Sport 2 HD",
-                "ViaPlay Danmark HD",
-                "Arena M2 Premium MKD HD",
-                "Fast Sports TV Armenia",
-                "Okko Prime Sport HD",
-                "Sky Sport 4 Austria HD",
-                "CBC Sport HD",
-                "Blue Sport 9 Live HD",
-                "Arena Premium 3 BiH HD",
-                "ART Motion Sport 2 HD",
-                "M+ Liga de Campeones 3 HD",
-                "Premier Sports 1 Mongolia HD",
-                "Paramount+",
-                "Pickx+ Sports 3 HD",
-                "Sky Sport 254 Italia HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Sabah - FC Barcelona",
-          "kick_utc": 1795628700,
-          "time": "26/11 12:45 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Prima Sport RO 1 HD",
-                "QazSport HD",
-                "HBO Max",
-                "Sky Sport 253 Italia HD",
-                "SuperSport Football Plus HD",
-                "TSN Malta 6 HD",
-                "Canal+ Foot HD",
-                "TV3 Sport Dansk HD",
-                "ViaPlay Sverige HD",
-                "TUDN",
-                "Virgin Media TV",
-                "Cytavision Sports 4K 1 UHD",
-                "Arena Premium 2 BiH HD",
-                "DAZN Canada",
-                "Paramount+",
-                "Cytavision Sports 3 HD",
-                "Digi Sport 1 Romania HD",
-                "SportKlub 1 Slovenija HD",
-                "ART Motion Sport 1 HD",
-                "Ictimai TV HD",
-                "TV2 Play Norge",
-                "DAZN Portugal",
-                "Arena Premium 2 Srbija HD",
-                "ViX",
-                "We Sport Moldova",
-                "Virgin Media Two HD",
-                "UniMás",
-                "Magenta Hellas Sport 3 HD",
-                "Megogo Futbol 2",
-                "beIN Sports MENA 3 HD",
-                "Premier Sports 2 Mongolia HD",
-                "Sport 1 Hungary HD",
-                "TNT Sports 4 HD",
-                "Ziggo Sport 1 HD",
-                "Canal+ Live 2 France HD",
-                "Arena Sport 2 Hrvatska HD",
-                "Blue Sport 8 Live HD",
-                "Sport TV Azerbaijan",
-                "Play Sports 3 Belgium",
-                "Arena M1 Premium MKD HD",
-                "Digi 4K UHD",
-                "ViaPlay Danmark HD",
-                "Okko Futbol HD",
-                "Sport TV Belarus",
-                "Sky Sport Calcio HD",
-                "DAZN 1 Portugal HD",
-                "Sky Sport 3 Austria HD",
-                "Pickx+ Sports 2 HD",
-                "M+ Liga de Campeones HD",
-                "Virgin Media PLAY",
-                "beIN Sports MENA English 1 HD",
-                "DAZN 1 Bar Deutsch HD",
-                "Tring Sport 1 HD",
-                "beIN Sports MENA 2 HD",
-                "beIN Sports MENA French 1 HD",
-                "Canal+ Extra 1 Polska HD",
-                "Fast Sports 1 Armenia"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "UEFA Champions League",
           "match": "PSG - Roma",
@@ -638,54 +32,59 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "DAZN 4 Portugal HD",
-                "Prima Sport RO 1 HD",
-                "HBO Max",
-                "RTL+ Hungary",
-                "ViaPlay Sverige HD",
-                "Arena Sport 1 BiH HD",
-                "SportKlub 3 Slovenija",
-                "DAZN Canada",
-                "Sky Sport Italia 4K UHD",
-                "beIN Sports MENA 4 HD",
-                "Cytavision Sports 7 HD",
-                "TSN Malta 4 HD",
-                "PLAY RSI",
-                "TV2 Play Norge",
-                "DAZN Portugal",
-                "SuperSport Football HD",
-                "ViX",
-                "We Sport Moldova",
-                "Blue Sport 1 Live UHD",
-                "Canal+ Live 5 France HD",
-                "Arena Sport 1 Srbija HD",
-                "Premier Sports 4 Mongolia HD",
-                "SRF Zwei Schweiz HD",
-                "Canal+ 360 Polska HD",
-                "M+ Liga de Campeones 6",
-                "RTS 2 Suisse HD",
-                "PLAY RTS Sport",
-                "PLAY SRF",
-                "RSI La 2 Svizzera HD",
-                "Tring Sport 2 HD",
-                "Pickx+ Sports 6 HD",
-                "ViaPlay Danmark HD",
-                "Blue Sport 2 Live HDR",
-                "Arena Sport 7 Hrvatska HD",
                 "Megogo Futbol 5",
-                "Digi Sport 2 Romania HD",
-                "Sky Sport 3 Austria HD",
                 "Sky Sport Uno Italia HD",
-                "TNT Sports 7",
-                "Play Sports Golf Belgium",
-                "CBS Golazo Network",
-                "Sky Sport 252 Italia HD",
-                "ART Motion Sport 2 HD",
-                "Magenta Hellas Sport 7 HD",
-                "Canal+ Sport 6 Polska HD",
-                "Paramount+",
+                "TV2 Play Norge",
+                "ViaPlay Danmark HD",
+                "Sky Sport Italia 4K UHD",
                 "Blue Sport 1 Live HD",
-                "Fast Sports 1 Armenia"
+                "TOP Channel HD",
+                "Blue Sport 1 Live UHD",
+                "Magenta Hellas Sport 7 HD",
+                "MTV Urheilu 2 Suomi HD",
+                "Canal+ 360 Polska HD",
+                "RTS 2 Suisse HD",
+                "We Sport Moldova",
+                "ViX",
+                "beIN Sports MENA 4 HD",
+                "Arena Sport 1 BiH HD",
+                "RSI La 2 Svizzera HD",
+                "HBO Max",
+                "Tabii Spor 1",
+                "SportKlub 3 Slovenija",
+                "Arena Sport 1 Srbija HD",
+                "PLAY SRF",
+                "Prima Sport RO 1 HD",
+                "Sky Sport 252 Italia HD",
+                "CBS Golazo Network",
+                "Canal+ Live 5 France HD",
+                "CBS Sports Golazo N/W",
+                "ART Motion Sport 2 HD",
+                "PLAY RSI",
+                "Sky Sport 3 Austria HD",
+                "DAZN 4 Portugal HD",
+                "Cytavision Sports 7 HD",
+                "SuperSport Football HD",
+                "SRF Zwei Schweiz HD",
+                "DAZN Canada",
+                "DAZN Portugal",
+                "Blue Sport 2 Live HDR",
+                "Digi Sport 2 Romania HD",
+                "TNT Sports 7",
+                "Fast Sports 1 Armenia",
+                "Play Sports Golf Belgium",
+                "Paramount+",
+                "Premier Sports 4 Mongolia HD",
+                "M+ Liga de Campeones 6",
+                "Pickx+ Sports 6 HD",
+                "TVM Sport+ HD",
+                "TSN Malta 4 HD",
+                "Tring Sport 2 HD",
+                "RTL+ Hungary",
+                "Canal+ Sport 6 Polska HD",
+                "ViaPlay Sverige HD",
+                "PLAY RTS Sport",
+                "Arena Sport 7 Hrvatska HD"
               ]
             }
           ],
@@ -718,47 +117,61 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "SuperSport Football Plus HD",
-                "HBO Max",
-                "Canal+ Extra 2 Polska HD",
-                "TNT Sports 1 HD",
-                "ViaPlay Sverige HD",
-                "TSN Malta 8 HD",
-                "TV3+ Dansk HD",
-                "beIN Sports MENA English 2 HD",
-                "Canal+ Live 4 France HD",
-                "Cytavision Sports 4K 1 UHD",
                 "Sport TV5 Portugal HD",
-                "Arena Premium 2 BiH HD",
-                "DAZN Canada",
-                "Cytavision Sports 3 HD",
-                "RTÉ Player",
-                "Sky Sport 255 Italia HD",
-                "SportKlub 1 Slovenija HD",
-                "Ictimai TV HD",
-                "RTÉ 2 Ireland HD",
                 "TV2 Play Norge",
-                "Megogo Futbol 7",
-                "Play Sports 5 Belgium",
-                "Ziggo Sport 6",
-                "DAZN",
-                "Premier Sports 1 Ireland HD",
-                "Arena Premium 4 Srbija HD",
-                "Digi Sport 3 Romania",
-                "Arena Sport 5 Hrvatska HD",
-                "Blue Sport 3 Live HD",
-                "Sport 2 Hungary HD",
-                "ART Motion Sport 4 HD",
-                "ViaPlay Danmark HD",
-                "Tring Sport 4 HD",
+                "beIN Sports MENA English 2 HD",
+                "Cytavision Sports 4K 1 UHD",
+                "Nova Sport 6 Czech HD",
                 "Pickx+ Sports 5 HD",
-                "Play Sports Golf Belgium",
-                "M+ Liga de Campeones 8",
-                "Sky Sport 4 Austria HD",
-                "Prima Sport RO 4 HD",
-                "Premier Sports 1 Mongolia HD",
+                "ViaPlay Danmark HD",
+                "SportKlub 1 Slovenija HD",
+                "ART Motion Sport 4 HD",
                 "beIN Sports MENA 2 HD",
+                "ViaPlay Sport Sverige HD",
+                "Sky Sport 4 Austria HD",
+                "TV3+ Dansk HD",
+                "M+ Liga de Campeones 8",
+                "TNT Sports 1 HD",
+                "Blue Sport 3 Live HD",
+                "Arena Sport 5 Hrvatska HD",
+                "Canal+ Live 4 France HD",
+                "HBO Max",
+                "Sony Sports TEN 2 India HD",
+                "Ziggo Sport 6",
+                "Sony Sports TEN 4 India HD",
+                "RTÉ Player",
+                "DAZN",
+                "Megogo Futbol 7",
+                "beIN Sports 2 HD",
+                "Premier Sports 1 Ireland HD",
+                "DAZN Canada",
+                "Prima Sport RO 4 HD",
+                "Digi Sport 3 Romania",
+                "SuperSport MáXimo 3A HD",
+                "IRIB Varzesh HD",
+                "Sony Sports TEN 3 India HD",
+                "Sky Sport 255 Italia HD",
+                "Tring Sport 4 HD",
+                "Premier Sports 1 Mongolia HD",
+                "Sport 2 Hungary HD",
+                "MTV Urheilu 3 Suomi HD",
+                "Play Sports 5 Belgium",
+                "Play Sports Golf Belgium",
                 "Paramount+",
+                "RTÉ 2 Ireland HD",
+                "Persiana Sports 3 HD",
+                "TSN Malta 8 HD",
+                "Canal+ Extra 2 Polska HD",
+                "Arena Premium 2 BiH HD",
+                "Magenta Hellas Sport 4K UHD",
+                "bTV Action HD",
+                "Q Sport League HD",
+                "Tabii Spor 4",
+                "SuperSport Football Plus HD",
+                "Cytavision Sports 3 HD",
+                "ViaPlay Sverige HD",
+                "Ictimai TV HD",
+                "Arena Premium 4 Srbija HD",
                 "Magenta Hellas Sport 3 HD"
               ]
             }
@@ -808,103 +221,38 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "HBO Max",
-                "RTL+ Hungary",
-                "ViaPlay Sverige HD",
-                "TSN Malta 5 HD",
-                "Play Sports 6 Belgium",
-                "DAZN Canada",
-                "Canal+ Live 7 France HD",
-                "Sky Sport 257 Italia HD",
-                "Sky Sport 7 Austria HD",
-                "TV2 Play Norge",
-                "TNT Sports 9",
-                "Magenta Hellas Sport 9 HD",
-                "DAZN Portugal",
-                "ViX",
-                "Prima Sport RO PPV 2",
-                "Canal+ Extra 7 Polska HD",
-                "Blue Sport 5 Live HD",
-                "Megogo Futbol 1",
-                "M+ Liga de Campeones 9",
-                "Sport TV Azerbaijan",
-                "ViaPlay Danmark HD",
-                "SuperSport Extra HD",
-                "Arena Sport 5 BiH HD",
                 "Arena Sport 10 Hrvatska HD",
-                "beIN Sports MENA 8 HD",
-                "Arena Sport 3 Srbija HD",
-                "CBC Sport HD",
-                "ART Motion Sport 5 HD",
-                "Pickx+ Sports 7 HD",
-                "TRT 1 Türkiye HD",
-                "Paramount+"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Club Brugge vs Liverpool",
-          "kick_utc": 1795636800,
-          "time": "26/11 03:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Arena M2 Premium MKD HD",
-                "Arena Premium 3 BiH HD",
-                "Arena Premium 3 Srbija HD",
-                "Arena Premium 3 Srbija HD",
-                "Arena Sport 2 Hrvatska HD",
-                "Arena Sport 2 Hrvatska HD",
-                "ART Motion Sport 1 HD",
-                "beIN Sports MENA 3 HD",
-                "beIN Sports MENA 3 HD",
-                "Blue Sport 2 Live HD",
-                "Canal+ Extra 3 Polska HD",
-                "Canal+ Live 3 France HD",
-                "Canal+ Sport France HD",
-                "Canal+ Sport France HD",
-                "Canal+ Sport France HD",
-                "Canal+ Sport France HD",
-                "Cytavision Sports 4 HD",
-                "Cytavision Sports 4K 2 UHD",
-                "DAZN 2 Portugal HD",
-                "DAZN Portugal",
-                "Digi Sport 4 Romania",
-                "HBO Max",
-                "M+ Liga de Campeones 5",
-                "Magenta Hellas Sport 6 HD",
-                "Magenta Hellas Sport 6 HD",
-                "Megogo Futbol 6",
-                "Pickx+ Sports 2 HD",
-                "Premier Sports 2 Mongolia HD",
-                "Premier Sports 2 Mongolia HD",
-                "Prima Sport RO 3 HD",
-                "Prima Sport RO 3 HD",
-                "RTL Club Belgique",
-                "RTL+ Hungary",
-                "Sky Sport 254 Italia HD",
-                "Sky Sport 254 Italia HD",
-                "Sky Sport 5 Austria HD",
-                "SuperSport Premier League HD",
-                "SuperSport Premier League HD",
-                "TNT Sports 2 HD",
-                "TNT Sports 2 HD",
-                "Tring Sport 5 HD",
-                "TSN Malta 3 HD",
                 "TV2 Play Norge",
-                "TVNet Sport Azerbaijan",
                 "ViaPlay Danmark HD",
-                "ViaPlay Sport News Dansk",
-                "ViaPlay Sverige HD",
-                "Virgin Media PLAY",
-                "Virgin Media TV",
-                "Virgin Media Two HD",
-                "VTM 2 Belgium HD",
-                "Ziggo Sport 2"
+                "M+ Liga de Campeones 9",
+                "Digi Sport",
+                "Play Sports 6 Belgium",
+                "Arena Sport 5 BiH HD",
+                "Arena Sport 3 Srbija HD",
+                "TSN Malta 5 HD",
+                "ART Motion Sport 5 HD",
+                "ViX",
+                "Blue Sport 5 Live HD",
+                "Sky Sport 7 Austria HD",
+                "HBO Max",
+                "TRT 1 Türkiye HD",
+                "Canal+ Extra 7 Polska HD",
+                "CBC Sport HD",
+                "DAZN Canada",
+                "DAZN Portugal",
+                "beIN Sports MENA 8 HD",
+                "Megogo Futbol 1",
+                "Sport TV Azerbaijan",
+                "Pickx+ Sports 7 HD",
+                "Paramount+",
+                "Prima Sport RO PPV 2",
+                "SuperSport Extra HD",
+                "Magenta Hellas Sport 9 HD",
+                "Sky Sport 257 Italia HD",
+                "TNT Sports 9",
+                "Canal+ Live 7 France HD",
+                "RTL+ Hungary",
+                "ViaPlay Sverige HD"
               ]
             }
           ],
@@ -925,11 +273,14 @@
                 "Arena Premium 2 Srbija HD",
                 "Arena Premium 2 Srbija HD",
                 "Arena Sport 1 Hrvatska HD",
+                "beIN Sports 1 HD",
+                "beIN Sports 1 HD",
                 "beIN Sports MENA 1 HD",
                 "beIN Sports MENA 1 HD",
                 "beIN Sports MENA English 1 HD",
                 "Blue Sport 3 Live HDR",
                 "Blue Sport D 1 HD",
+                "Canal+ Extra 1 Polska HD",
                 "Canal+ France HD",
                 "Canal+ France UHD HDR",
                 "Canal+ Live 1 France HD",
@@ -942,13 +293,35 @@
                 "Fast Sports TV Armenia",
                 "GEM Sport 1 HD",
                 "HBO Max",
+                "HRT 2 Hrvatska HD",
+                "HRT 2 Hrvatska HD",
+                "HRT 2 Hrvatska HD",
+                "HRT 2 Hrvatska HD",
+                "IRIB TV3 HD",
+                "IRIB TV3 HD",
+                "IRIB TV3 HD",
+                "IRIB TV3 HD",
+                "IRIB TV3 HD",
                 "Kanal A Slovenija HD",
                 "M+ Liga de Campeones 3 HD",
                 "M+ Liga de Campeones 3 HD",
                 "Magenta Hellas Sport 2 HD",
                 "Magenta Hellas Sport 2 HD",
+                "MEGA Hellas HD",
+                "MEGA Hellas HD",
+                "MEGA Hellas HD",
+                "MEGA Hellas HD",
                 "Megogo Futbol 2",
+                "MTV Urheilu 1 Suomi HD",
+                "Nova Sport 5 Czech HD",
+                "Nova Sport 5 Czech HD",
+                "Nova Sport 5 Czech HD",
+                "Nova Sport 5 Czech HD",
+                "Nova Sport 5 Czech HD",
                 "Okko Prime Sport HD",
+                "Persiana Sport HD",
+                "Persiana Sport HD",
+                "Persiana Sport HD",
                 "Pickx+ Sports 3 HD",
                 "Play Sports 3 Belgium",
                 "Premier Sports 3 Mongolia HD",
@@ -964,7 +337,16 @@
                 "QazSport HD",
                 "QazSport HD",
                 "QazSport HD",
+                "Ring Bulgaria HD",
+                "Ring Bulgaria HD",
+                "Ring Bulgaria HD",
+                "Ring Bulgaria HD",
+                "Ring Bulgaria HD",
+                "Ring Bulgaria HD",
                 "RTK 1 Kosovo HD",
+                "RTS 2 Srbija HD",
+                "RTS 2 Srbija HD",
+                "RTS 2 Srbija HD",
                 "Sky Sport 2 Austria HD",
                 "Sky Sport 2 Austria HD",
                 "Sport 1 Hungary HD",
@@ -975,19 +357,25 @@
                 "Sport TV 2 Azerbaijan",
                 "SuperSport Action HD",
                 "SuperSport Action HD",
+                "SuperSport MáXimo 2A HD",
                 "SuperSport PSL HD",
                 "SuperSport PSL HD",
+                "Tabii Spor Türkiye",
                 "TNT Sports 10",
                 "TNT Sports 4 HD",
                 "TNT Sports 4 HD",
                 "Tring Sport 1 HD",
                 "TSN Malta 7 HD",
+                "TUDN Español USA",
                 "TV2 Play Norge",
                 "TV2 Sport 1 Norge HD",
                 "TV2 Sport 1 Norge HD",
                 "TV3 Sport Dansk HD",
                 "TV3 Sport Dansk HD",
                 "TVP 1 Polska HD",
+                "UniMás USA",
+                "V Sport Football HD",
+                "V Sport Ultra 4K UHD",
                 "ViaPlay Danmark HD",
                 "ViaPlay Sverige HD",
                 "Ziggo Sport 1 HD"
@@ -1021,22 +409,31 @@
                 "DAZN 1 Bar Deutsch HD",
                 "DAZN 3 Portugal HD",
                 "DAZN Portugal",
+                "Digi Sport",
                 "Fast Sports 2 Armenia",
                 "HBO Max",
                 "M+ Liga de Campeones 7",
                 "Magenta Hellas Sport 5 HD",
                 "Magenta Hellas Sport 5 HD",
+                "MTV MAX Suomi HD",
+                "Nova Sport 4 Czech HD",
+                "Nova Sport 4 Czech HD",
                 "Pickx+ Sports 4 HD",
                 "Play Sports 4 Belgium",
                 "Premier Sports 5 Mongolia HD",
                 "Premier Sports 5 Mongolia HD",
                 "Prima Sport RO 5 HD",
+                "Q Sport Arena HD",
+                "Q Sport Arena HD",
                 "RTL+ Hungary",
                 "Sky Sport 253 Italia HD",
                 "Sky Sport 253 Italia HD",
                 "Sky Sport Calcio HD",
+                "Sony Sports TEN 5 India HD",
+                "Sony Sports TEN 5 India HD",
                 "SuperSport Kickoff HD",
                 "SuperSport Kickoff HD",
+                "Tabii Spor 2",
                 "TNT Sports 6",
                 "Tring Sport 3 HD",
                 "TSN Malta 6 HD",
@@ -1047,6 +444,7 @@
                 "TV8 Italia HD",
                 "TV8 Italia HD",
                 "TV8 Italia HD",
+                "V Sport Extra Sverige HD",
                 "ViaPlay Danmark HD",
                 "ViaPlay Sverige HD",
                 "Ziggo Sport 3"
@@ -1075,6 +473,7 @@
                 "Canal+ Live 6 France HD",
                 "Cytavision Sports 2 HD",
                 "DAZN Portugal",
+                "Digi Sport",
                 "HBO Max",
                 "M+ Liga de Campeones 2 HD",
                 "M+ Liga de Campeones 2 HD",
@@ -1083,6 +482,7 @@
                 "Megogo Futbol 8",
                 "Megogo Sport Ukraine HD",
                 "Megogo Sport Ukraine HD",
+                "Persiana Sports 2 HD",
                 "Pickx+ Sports 8",
                 "Play Sports 7 Belgium",
                 "Prima Sport RO PPV 1",
@@ -1093,6 +493,8 @@
                 "SportKlub 2 Slovenija",
                 "SuperSport LaLiga HD",
                 "SuperSport LaLiga HD",
+                "SuperSport MáXimo 360",
+                "Tabii Spor 5",
                 "TNT Sports 8",
                 "Tring Sport 6 HD",
                 "TSN Malta 2 HD",
@@ -1106,10 +508,1896 @@
           "source": "livesportsontv"
         },
         {
+          "league": "UEFA Champions League",
+          "match": "Club Brugge vs Liverpool",
+          "kick_utc": 1795636800,
+          "time": "26/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena M2 Premium MKD HD",
+                "Arena Premium 3 BiH HD",
+                "Arena Premium 3 Srbija HD",
+                "Arena Premium 3 Srbija HD",
+                "Arena Sport 2 Hrvatska HD",
+                "Arena Sport 2 Hrvatska HD",
+                "ART Motion Sport 1 HD",
+                "beIN Sports 3 HD",
+                "beIN Sports MENA 3 HD",
+                "beIN Sports MENA 3 HD",
+                "Blue Sport 2 Live HD",
+                "Canal+ Extra 3 Polska HD",
+                "Canal+ Live 3 France HD",
+                "Canal+ Sport France HD",
+                "Canal+ Sport France HD",
+                "Canal+ Sport France HD",
+                "Canal+ Sport France HD",
+                "Cytavision Sports 4 HD",
+                "Cytavision Sports 4K 2 UHD",
+                "DAZN 2 Portugal HD",
+                "DAZN Portugal",
+                "Digi Sport 4 Romania",
+                "HBO Max",
+                "M+ Liga de Campeones 5",
+                "Magenta Hellas Sport 6 HD",
+                "Magenta Hellas Sport 6 HD",
+                "Megogo Futbol 6",
+                "Nova Sport 3 Czech HD",
+                "Nova Sport 3 Czech HD",
+                "Pickx+ Sports 2 HD",
+                "Premier Sports 2 Mongolia HD",
+                "Premier Sports 2 Mongolia HD",
+                "Prima Sport RO 3 HD",
+                "Prima Sport RO 3 HD",
+                "Q Sport Football HD",
+                "RTL Club Belgique",
+                "RTL+ Hungary",
+                "Sky Sport 254 Italia HD",
+                "Sky Sport 254 Italia HD",
+                "Sky Sport 5 Austria HD",
+                "Sony Sports TEN 1 India HD",
+                "Sony Sports TEN 1 India HD",
+                "SuperSport MáXimo 1 HD",
+                "SuperSport MáXimo 1 HD",
+                "SuperSport Premier League HD",
+                "SuperSport Premier League HD",
+                "Tabii Spor 3",
+                "TNT Sports 2 HD",
+                "TNT Sports 2 HD",
+                "Tring Sport 5 HD",
+                "TSN Malta 3 HD",
+                "TV2 Play Norge",
+                "TVNet Sport Azerbaijan",
+                "V Sport 1 Sverige HD",
+                "ViaPlay Danmark HD",
+                "ViaPlay Sport News Dansk",
+                "ViaPlay Sverige HD",
+                "Virgin Media PLAY",
+                "Virgin Media TV",
+                "Virgin Media Two HD",
+                "VTM 2 Belgium HD",
+                "Ziggo Sport 2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Kairat - Mjällby AIF",
+          "kick_utc": 1795707000,
+          "time": "26/11 10:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Kairat Almaty vs Mjällby AIF",
+          "kick_utc": 1795707000,
+          "time": "26/11 10:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena M1 Premium MKD HD",
+                "Arena Premium 2 BiH HD",
+                "Arena Premium 2 Srbija HD",
+                "Arena Premium 2 Srbija HD",
+                "Arena Premium 2 Srbija HD",
+                "Arena Sport 3 Hrvatska HD",
+                "beIN Sports MENA 2 HD",
+                "beIN Sports MENA 2 HD",
+                "beIN Sports MENA English 1 HD",
+                "Canal+ Live 15 France HD",
+                "Digi Sport 2 Romania HD",
+                "Digi Sport 2 Romania HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "Magenta Hellas Sport 9 HD",
+                "Magenta Hellas Sport 9 HD",
+                "Megogo Futbol 1",
+                "Megogo Sport Ukraine HD",
+                "Megogo Sport Ukraine HD",
+                "Okko Futbol HD",
+                "Polsat Sport Premium 2 HD",
+                "Prima Sport RO 2 HD",
+                "Prima Sport RO 2 HD",
+                "Prima Sport RO 2 HD",
+                "Prima Sport RO 2 HD",
+                "QazSport HD",
+                "QazSport HD",
+                "QazSport HD",
+                "QazSport HD",
+                "QazSport HD",
+                "QazSport HD",
+                "Sky Sport 254 Italia HD",
+                "Sky Sport 254 Italia HD",
+                "Sky Sport Calcio HD",
+                "Sport TV Belarus",
+                "Tabii Spor Türkiye",
+                "TNT Sports 4 HD",
+                "TNT Sports 4 HD",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Olympiakos Piraeus - AC Milan",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "UniMás",
+                "ViX",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Olympique Marseille - Levski Sofia",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX",
+                "DAZN Canada",
+                "OneSoccer"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Viktoria Plzeň - Benfica",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Union Saint-Gilloise - Lech Poznań",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Dinamo Zagreb vs Bayer Leverkusen",
+          "kick_utc": 1795711500,
+          "time": "26/11 11:45 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 6",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Dinamo Zagreb - Bayer Leverkusen",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Megogo Futbol 5",
+                "ViaPlay Suomi HD",
+                "Arena Sport 2 Hrvatska HD",
+                "ViX",
+                "HBO Max",
+                "Sky Sport Calcio HD",
+                "Sky Sport 3 Austria HD",
+                "RTL+ Deutschland",
+                "DAZN Canada",
+                "TSN Malta 1 HD",
+                "Sky Sport 255 Italia HD",
+                "Arena Sport 2 BiH HD",
+                "Premier Sports 3 Mongolia HD",
+                "Paramount+",
+                "Canal+ Live 6 France HD",
+                "Magenta Hellas Sport 9 HD",
+                "TNT Sports 6",
+                "Blue Sport 2 Live HD",
+                "Arena Sport 4 Srbija HD",
+                "ViaPlay Norge HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "FC Red Bull Salzburg - Ararat-Armenia",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Celta de Vigo - AFC Bournemouth",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Beşiktaş - Hapoel Be'er Sheva",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Brighton & Hove Albion - Universitatea Craiova",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX",
+                "DAZN Canada",
+                "OneSoccer"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Brann - AGF",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Jablonec - Lugano",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Blue Sport 3 Live HD",
+                "HBO Max",
+                "ViaPlay Suomi HD",
+                "Canal+ Live 15 France HD",
+                "ViaPlay Norge HD",
+                "Blue Sport 3 Live HDR",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "Paramount+",
+                "Blue Sport D 2 HD",
+                "ViX"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Ajax - Thun",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Sport 10 Hrvatska HD",
+                "Arena Sport 5 Srbija HD",
+                "ViaPlay Suomi HD",
+                "Megogo Sport Ukraine HD",
+                "TSN Malta 5 HD",
+                "Blue Sport 1 Live UHD",
+                "RTS 2 Suisse HD",
+                "ViX",
+                "RSI La 2 Svizzera HD",
+                "HBO Max",
+                "Megogo Futbol 6",
+                "PLAY RSI",
+                "SuperSport Football HD",
+                "SRF Zwei Schweiz HD",
+                "DAZN Canada",
+                "Blue Sport 2 Live HDR",
+                "Canal+ Live 10 France HD",
+                "Paramount+",
+                "Blue Sport D 1 HD",
+                "TNT Sports 9",
+                "beIN Sports MENA 9 HD",
+                "ViaPlay Norge HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "PLAY RTS Sport",
+                "PLAY SRF"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Pafos FC - FC Midtjylland",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Hearts - Monaco",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TNT Sports 3 HD",
+                "TSN Malta 8 HD",
+                "HBO Max",
+                "beIN Sports MENA 5 HD",
+                "ViX",
+                "Megogo Futbol 9",
+                "Arena Sport 4 BiH HD",
+                "Arena Sport 9 Hrvatska HD",
+                "Canal+ Live 3 France HD",
+                "ViaPlay Suomi HD",
+                "Arena Sport 3 Srbija HD",
+                "Disney+ Danmark",
+                "ViaPlay Norge HD",
+                "Disney+ Sverige",
+                "Paramount+",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Kauno Žalgiris - Riga",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "FC Iberia 1999 - Getafe",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Egnatia Rrogozhinë - Lincoln Red Imps",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Olympiacos vs AC Milan",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ANT 1 Hellas HD",
+                "ANT 1 Hellas HD",
+                "ANT 1 Hellas HD",
+                "Arena M1 Premium MKD HD",
+                "Arena Premium 2 BiH HD",
+                "Arena Premium 2 Srbija HD",
+                "Arena Premium 2 Srbija HD",
+                "Arena Premium 2 Srbija HD",
+                "Arena Sport 3 Hrvatska HD",
+                "beIN Sports MENA 1 HD",
+                "beIN Sports MENA 1 HD",
+                "Blue Sport 1 Live HD",
+                "Canal+ Live 4 France HD",
+                "Digi 4K UHD",
+                "Digi Sport 2 Romania HD",
+                "Digi Sport 2 Romania HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "Fast Sports 1 Armenia",
+                "HBO Max",
+                "Magenta Hellas Sport 3 HD",
+                "Magenta Hellas Sport 3 HD",
+                "Megogo Futbol 1",
+                "Play Sports 4 Belgium",
+                "Polsat Sport Premium 2 HD",
+                "Premier Sports 1 Mongolia HD",
+                "Premier Sports 1 Mongolia HD",
+                "Prima Sport RO 3 HD",
+                "Prima Sport RO 3 HD",
+                "QazSport HD",
+                "QazSport HD",
+                "QazSport HD",
+                "QazSport HD",
+                "QazSport HD",
+                "QazSport HD",
+                "RTL+ Hungary",
+                "Sky Sport 253 Italia HD",
+                "Sky Sport 253 Italia HD",
+                "Sky Sport 4 Austria HD",
+                "Sky Sport Uno Italia HD",
+                "Sport TV 2 Azerbaijan",
+                "SuperSport Kickoff HD",
+                "SuperSport Kickoff HD",
+                "TNT Sports 4 HD",
+                "TNT Sports 4 HD",
+                "TSN Malta 2 HD",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD",
+                "VOOsport World 2 HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Union St Gilloise vs Lech Poznan",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Blue Sport 19 Live HD",
+                "Canal+ Live 9 France HD",
+                "Digi Sport",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "Polsat Sport 1 HD",
+                "Polsat Sport Premium 1 HD",
+                "Prima Sport RO 4 HD",
+                "Prima Sport RO 4 HD",
+                "SuperSport LaLiga HD",
+                "SuperSport LaLiga HD",
+                "TV6 Polska HD",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD",
+                "VRT Canvas Belgium HD",
+                "VRT Canvas Belgium HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Marseille vs Levski Sofia",
+          "kick_utc": 1795711500,
+          "time": "26/11 11:45 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 7",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Marseille vs Levski Sofia",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Polsat Sport Extra 4 HD",
+                "SuperSport Action HD",
+                "ViaPlay Suomi HD",
+                "Digi Sport",
+                "Canal+ Foot HD",
+                "beIN Sports MENA 4 HD",
+                "Prima Sport RO 5 HD",
+                "HBO Max",
+                "Megogo Futbol 8",
+                "Canal+ Foot UHD HDR",
+                "Blue Sport 17 Live HD",
+                "TNT Sports 7",
+                "MAX Sport 3 Bulgaria HD",
+                "Sky Sport 8 Austria HD",
+                "Premier Sports 5 Mongolia HD",
+                "TSN Malta 3 HD",
+                "Canal+ Live 2 France HD",
+                "ViaPlay Norge HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Salzburg vs Ararat-Armenia",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sports MENA Xtra 2 HD",
+                "beIN Sports MENA Xtra 2 HD",
+                "Blue Sport 20 Live HD",
+                "Canal+ Live 13 France HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "Fast Sports TV Armenia",
+                "HBO Max",
+                "Polsat Sport Extra 2 HD",
+                "Servus TV Österreich HD",
+                "Servus TV Österreich HD",
+                "Servus TV Österreich HD",
+                "Servus TV Österreich HD",
+                "Sky Sport 2 Austria HD",
+                "Sky Sport 2 Austria HD",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Viktoria Plzen vs Benfica",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Premium 4 Srbija HD",
+                "Arena Sport 3 BiH HD",
+                "Blue Sport 18 Live HD",
+                "Canal+ Live 7 France HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "Magenta Hellas Sport 6 HD",
+                "Magenta Hellas Sport 6 HD",
+                "Megogo Futbol 2",
+                "Nova Sport 5 Czech HD",
+                "Nova Sport 5 Czech HD",
+                "Nova Sport 5 Czech HD",
+                "Nova Sport 5 Czech HD",
+                "Nova Sport 5 Czech HD",
+                "Polsat Sport Extra 1 HD",
+                "RTL+ Hungary",
+                "Sky Sport 7 Austria HD",
+                "Sport TV5 Portugal HD",
+                "SuperSport Football Plus HD",
+                "SuperSport Football Plus HD",
+                "TNT Sports 8",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Celta Vigo vs Bournemouth",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena M3 Premium MKD HD",
+                "Arena Premium 3 Srbija HD",
+                "Arena Premium 3 Srbija HD",
+                "Arena Sport 5 BiH HD",
+                "Arena Sport 7 Hrvatska HD",
+                "beIN Sports MENA 3 HD",
+                "beIN Sports MENA 3 HD",
+                "beIN Sports MENA English 1 HD",
+                "Blue Sport 21 Live HD",
+                "Canal+ Live 5 France HD",
+                "Digi Sport 3 Romania",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "Fast Sports 2 Armenia",
+                "HBO Max",
+                "M+ Liga de Campeones HD",
+                "M+ Liga de Campeones HD",
+                "Magenta Hellas Sport 7 HD",
+                "Magenta Hellas Sport 7 HD",
+                "Okko Prime Sport HD",
+                "Play Sports 5 Belgium",
+                "Polsat Sport Extra 3 HD",
+                "Premier Sports 1 Ireland HD",
+                "Premier Sports 2 Mongolia HD",
+                "Premier Sports 2 Mongolia HD",
+                "Prima Sport RO 2 HD",
+                "Prima Sport RO 2 HD",
+                "Prima Sport RO 2 HD",
+                "Prima Sport RO 2 HD",
+                "RTL+ Hungary",
+                "Sky Sport 256 Italia HD",
+                "Sky Sport 256 Italia HD",
+                "Sky Sport 5 Austria HD",
+                "Sky Sport MIX Italia HD",
+                "SuperSport Premier League HD",
+                "SuperSport Premier League HD",
+                "TNT Sports 1 HD",
+                "TNT Sports 1 HD",
+                "TNT Sports 1 HD",
+                "TNT Sports 1 HD",
+                "TNT Sports 1 HD",
+                "TNT Sports 1 HD",
+                "TSN Malta 4 HD",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD",
+                "VOOsport World 1 HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Brighton H.A. vs Universitatea Craiova",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Premium 3 BiH HD",
+                "Arena Sport 2 Srbija HD",
+                "Arena Sport 5 Hrvatska HD",
+                "beIN Sports MENA 2 HD",
+                "beIN Sports MENA 2 HD",
+                "Canal+ Live 11 France HD",
+                "Digi Sport 1 Romania HD",
+                "Digi Sport 1 Romania HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "Magenta Hellas Sport 8 HD",
+                "Magenta Hellas Sport 8 HD",
+                "Megogo Futbol 7",
+                "Premier Sports 2 Ireland HD",
+                "Prima Sport RO 1 HD",
+                "Prima Sport RO 1 HD",
+                "Prima Sport RO 1 HD",
+                "Sky Sport 6 Austria HD",
+                "TNT Sports 2 HD",
+                "TNT Sports 2 HD",
+                "TSN Malta 6 HD",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Iberia 1999 vs Getafe",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Sport 6 Srbija HD",
+                "beIN Sports MENA Xtra 1 HD",
+                "beIN Sports MENA Xtra 1 HD",
+                "Canal+ Live 12 France HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "TSN Malta 7 HD",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Pafos FC vs Midtjylland",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Canal+ Live 18 France HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Kauno Zalgiris vs Riga FC",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Canal+ Live 16 France HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Egnatia vs Lincoln Red Imps",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Canal+ Live 17 France HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Brann vs AGF Aarhus",
+          "kick_utc": 1795715100,
+          "time": "27/11 12:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Canal+ Live 14 France HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Juventus vs Omonia Nicosia",
+          "kick_utc": 1795719600,
+          "time": "27/11 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 4",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Juventus - Omonia Nicosia",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Sky Sport Uno Italia HD",
+                "Sky Sport Italia 4K UHD",
+                "ViaPlay Suomi HD",
+                "Arena Premium 2 Srbija HD",
+                "beIN Sports MENA 2 HD",
+                "TSN Malta 2 HD",
+                "Polsat Sport Premium 2 HD",
+                "Arena Sport 5 Hrvatska HD",
+                "Blue Sport 4 Live HD",
+                "HBO Max",
+                "Blue Sport 4 Live HDR",
+                "Sky Sport 5 Austria HD",
+                "Sky Sport 252 Italia HD",
+                "DAZN",
+                "Canal+ Live 5 France HD",
+                "Arena M2 Premium MKD HD",
+                "Megogo Futbol 2",
+                "DAZN Canada",
+                "QazSport HD",
+                "Digi Sport 2 Romania HD",
+                "TNT Sports 4 HD",
+                "Prima Sport RO 2 HD",
+                "Fast Sports TV Armenia",
+                "Premier Sports 1 Mongolia HD",
+                "Digi 4K UHD",
+                "Paramount+",
+                "Arena Premium 3 BiH HD",
+                "Sport TV 2 Azerbaijan",
+                "RTL+ Hungary",
+                "ViaPlay Norge HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "SuperSport Kickoff HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Lyon - Lillestrøm",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Polsat Sport Extra 4 HD",
+                "Blue Sport 7 Live HD",
+                "ViaPlay Suomi HD",
+                "ViX",
+                "Sky Sport 7 Austria HD",
+                "HBO Max",
+                "Megogo Futbol 6",
+                "DAZN",
+                "SuperSport Football HD",
+                "DAZN Canada",
+                "beIN Sports MENA 5 HD",
+                "Paramount+",
+                "Premier Sports 4 Mongolia HD",
+                "Canal+ Live 1 France HD",
+                "TNT Sports 6",
+                "Canal+ France HD",
+                "ViaPlay Norge HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Ferencvaros - Celje",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Sparta Praha - AZ",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Crystal Palace vs Real Sociedad",
+          "kick_utc": 1795719600,
+          "time": "27/11 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports Ultimate",
+                "HBO Max",
+                "TNT Sports 1"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Crystal Palace - Real Sociedad",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ViaPlay Suomi HD",
+                "Arena Premium 4 BiH HD",
+                "M+ Vamos 1 España HD",
+                "Play Sports 6 Belgium",
+                "Sky Sport 4 Austria HD",
+                "VOOsport World 1 HD",
+                "TSN Malta 6 HD",
+                "ViX",
+                "TNT Sports 1 HD",
+                "Blue Sport 5 Live HD",
+                "Canal+ Live 4 France HD",
+                "HBO Max",
+                "Sky Sport Calcio HD",
+                "M+ #Vamos Bar 1",
+                "Premier Sports 2 Mongolia HD",
+                "Premier Sports 2 Ireland HD",
+                "DAZN Canada",
+                "Prima Sport RO 4 HD",
+                "Polsat Sport Extra 2 HD",
+                "Digi Sport 3 Romania",
+                "Arena Sport 3 Hrvatska HD",
+                "Megogo Futbol 1",
+                "Sky Sport 255 Italia HD",
+                "beIN Sports MENA 3 HD",
+                "SuperSport Premier League HD",
+                "UniMás",
+                "Fast Sports 1 Armenia",
+                "Paramount+",
+                "TUDN",
+                "Disney+ Sverige",
+                "beIN Sports MENA English 1 HD",
+                "Okko Prime Sport HD",
+                "TNT Sports Ultimate UHD",
+                "RTL+ Hungary",
+                "ViaPlay Norge HD",
+                "Disney+ Danmark",
+                "Arena Premium 4 Srbija HD",
+                "M+ Liga de Campeones HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "TSG 1899 Hoffenheim - Sturm Graz",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Torreense vs Celtic",
+          "kick_utc": 1795719600,
+          "time": "27/11 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 3",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Torreense - Celtic",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TNT Sports 3 HD",
+                "ViaPlay Suomi HD",
+                "Arena Sport 9 Hrvatska HD",
+                "DAZN 1 Portugal HD",
+                "ViX",
+                "HBO Max",
+                "Canal+ Live 8 France HD",
+                "DAZN 2 Portugal HD",
+                "Premier Sports 1 Ireland HD",
+                "DAZN Canada",
+                "DAZN Portugal",
+                "TSN Malta 3 HD",
+                "Paramount+",
+                "SuperSport LaLiga HD",
+                "beIN Sports MENA 9 HD",
+                "Blue Sport 11 Live HD",
+                "Arena Sport 4 Srbija HD",
+                "ViaPlay Norge HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "NEC - Rennes",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "DAZN",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "OFI vs Anderlecht",
+          "kick_utc": 1795719600,
+          "time": "27/11 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "OFI - Anderlecht",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada",
+                "Paramount+",
+                "ViX"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Sporting Braga - KuPS",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Freiburg - FC Twente",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Gent - Red Star Belgrade",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Borac Banja Luka - Atalanta",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ViaPlay Suomi HD",
+                "Megogo Sport Ukraine HD",
+                "Sky Sport Max Italia HD",
+                "Blue Sport 15 Live HD",
+                "ViX",
+                "HBO Max",
+                "Megogo Futbol 8",
+                "TNT Sports 8",
+                "DAZN Canada",
+                "Arena M3 Premium MKD HD",
+                "beIN Sports MENA 8 HD",
+                "Sky Sport 254 Italia HD",
+                "Paramount+",
+                "Arena Premium 1 BiH HD",
+                "Canal+ Live 3 France HD",
+                "Arena Premium 3 Srbija HD",
+                "Arena Sport 8 Hrvatska HD",
+                "TSN Malta 7 HD",
+                "ViaPlay Norge HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Hajduk Split - Sint-Truiden",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "FC Nordsjælland - Panathinaikos",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Inter Club d'Escaldes - FC København",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+",
+                "ViX"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "CSKA Sofia - Trabzonspor",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Megogo Futbol 5",
+                "HBO Max",
+                "Arena Sport 4 BiH HD",
+                "Ictimai TV HD",
+                "Arena Sport 6 Srbija HD",
+                "ViaPlay Suomi HD",
+                "TRT 1 Türkiye HD",
+                "Sport TV Belarus",
+                "beIN Sports MENA 1 HD",
+                "ViaPlay Norge HD",
+                "Canal+ Live 11 France HD",
+                "Disney+ Danmark",
+                "Sport TV Azerbaijan",
+                "Disney+ Sverige",
+                "Paramount+",
+                "ViX"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "NEC Nijmegen vs Rennes",
+          "kick_utc": 1795719600,
+          "time": "27/11 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "NEC Nijmegen vs Rennes",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Ziggo Sport 3",
+                "Canal+ Live 2 France HD",
+                "HBO Max",
+                "ViaPlay Suomi HD",
+                "Polsat Sport Extra 1 HD",
+                "Sky Sport 8 Austria HD",
+                "Arena Sport 3 Srbija HD",
+                "Disney+ Danmark",
+                "Canal+ Foot HD",
+                "beIN Sports MENA 6 HD",
+                "Disney+ Sverige",
+                "ViaPlay Norge HD",
+                "Canal+ Foot UHD HDR",
+                "Blue Sport 12 Live HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Ferencváros vs Celje",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Premium 5 BiH HD",
+                "Arena Sport 5 Srbija HD",
+                "Blue Sport 8 Live HD",
+                "Canal+ Live 9 France HD",
+                "Digi Sport",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "M4 Sport Hungary HD",
+                "M4 Sport Hungary HD",
+                "M4 Sport Hungary HD",
+                "M4 Sport Hungary HD",
+                "M4 Sport Hungary HD",
+                "M4 Sport Hungary HD",
+                "M4 Sport Hungary HD",
+                "Prima Sport RO 3 HD",
+                "Prima Sport RO 3 HD",
+                "Sport TV1 Slovenija",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "OFI Crete vs Anderlecht",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sports MENA Xtra 3 HD",
+                "beIN Sports MENA Xtra 3 HD",
+                "Blue Sport 13 Live HD",
+                "Canal+ Live 7 France HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "Magenta Hellas Sport 5 HD",
+                "Magenta Hellas Sport 5 HD",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD",
+                "VRT Canvas Belgium HD",
+                "VRT Canvas Belgium HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Sparta Prague vs AZ Alkmaar",
+          "kick_utc": 1795719600,
+          "time": "27/11 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Sparta Prague vs AZ Alkmaar",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Sport 1 Czechia HD",
+                "HBO Max",
+                "Ziggo Sport 1 HD",
+                "ViaPlay Suomi HD",
+                "beIN Sports MENA Xtra 1 HD",
+                "RTL+ Hungary",
+                "ViaPlay Norge HD",
+                "Disney+ Danmark",
+                "Blue Sport 9 Live HD",
+                "Disney+ Sverige",
+                "Canal+ Live 14 France HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Hoffenheim vs Sturm Graz",
+          "kick_utc": 1795719600,
+          "time": "27/11 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 7",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Hoffenheim vs Sturm Graz",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "HBO Max",
+                "Blue Sport 10 Live HD",
+                "TNT Sports 7",
+                "TSN Malta 5 HD",
+                "ViaPlay Suomi HD",
+                "Premier Sports 5 Mongolia HD",
+                "ViaPlay Norge HD",
+                "Disney+ Danmark",
+                "Polsat Sport Extra 3 HD",
+                "Sky Sport 256 Italia HD",
+                "Disney+ Sverige",
+                "Sky Sport MIX Italia HD",
+                "Canal+ Live 13 France HD",
+                "RTL+ Deutschland"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Sporting Braga vs KuPS Kuopio",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Canal+ Live 10 France HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Nordsjælland vs Panathinaikos",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Canal+ Live 15 France HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Inter Escaldes vs FC Copenhagen",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Canal+ Live 17 France HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Hajduk Split vs Sint-Truiden",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Sport 1 Hrvatska HD",
+                "Arena Sport 2 BiH HD",
+                "Arena Sport 9 Srbija HD",
+                "Canal+ Live 16 France HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "Play Sports 5 Belgium",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Freiburg vs Twente",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Sport 2 Srbija HD",
+                "Arena Sport 5 BiH HD",
+                "Arena Sport 7 Hrvatska HD",
+                "Blue Sport 14 Live HD",
+                "Canal+ Live 12 France HD",
+                "CBC Sport HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "Fast Sports 2 Armenia",
+                "HBO Max",
+                "Megogo Futbol 9",
+                "RTL Deutschland HD",
+                "RTL Deutschland HD",
+                "RTL Deutschland HD",
+                "RTL Deutschland HD",
+                "RTL Deutschland HD",
+                "RTL Deutschland HD",
+                "RTL Schweiz HD",
+                "RTL Schweiz HD",
+                "RTL Österreich HD",
+                "RTL Österreich HD",
+                "RTL+ Deutschland",
+                "Sky Sport 3 Austria HD",
+                "TNT Sports 9",
+                "TSN Malta 8 HD",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "AA Gent vs Red Star Belgrade",
+          "kick_utc": 1795723200,
+          "time": "27/11 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena M1 Premium MKD HD",
+                "Arena Premium 1 Srbija HD",
+                "Arena Premium 1 Srbija HD",
+                "Arena Premium 2 BiH HD",
+                "Arena Sport 4 Hrvatska HD",
+                "Blue Sport 16 Live HD",
+                "Canal+ Live 18 France HD",
+                "Disney+ Danmark",
+                "Disney+ Sverige",
+                "HBO Max",
+                "Play Sports 4 Belgium",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Besiktas vs Hapoel Beer Sheva",
+          "kick_utc": 1795711500,
+          "time": "26/11 11:45 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Celta Vigo vs Bournemouth AFC",
+          "kick_utc": 1795711500,
+          "time": "26/11 11:45 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 1",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Olympiakos vs AC Milan",
+          "kick_utc": 1795711500,
+          "time": "26/11 11:45 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 4",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Red Bull Salzburg vs Ararat Armenia",
+          "kick_utc": 1795711500,
+          "time": "26/11 11:45 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Union Saint-Gilloise vs Lech Poznan",
+          "kick_utc": 1795711500,
+          "time": "26/11 11:45 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "FC Viktoria Plzen vs Benfica",
+          "kick_utc": 1795711500,
+          "time": "26/11 11:45 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 8",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Ferencvaros vs NK Celje",
+          "kick_utc": 1795719600,
+          "time": "27/11 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Olympique Lyonnais vs Lillestrom SK",
+          "kick_utc": 1795719600,
+          "time": "27/11 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 6",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Sunderland vs Jagiellonia Bialystok",
+          "kick_utc": 1795719600,
+          "time": "27/11 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 2",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
           "league": "Tennis",
-          "match": "Tenis: Cupa Davis Italia-Coreea de Nord (Final 8/ Sferturi de finala)",
-          "kick_utc": 1795597200,
-          "time": "25/11 04:00 PM",
+          "match": "Tenis: Cupa Davis Austria-Spania (Final 8/ Sferturi de finala)",
+          "kick_utc": 1795687200,
+          "time": "26/11 05:00 PM",
           "tv_channels": [
             {
               "country": "Hubsport",
