@@ -1,7 +1,21 @@
 {
-    "Wednesday 25th Nov 2026 - Schedule Time UK GMT": {
-        "All Soccer Events ⚽": [],
-        "Major League Soccer (MLS) ⚽": [],
+    "Thursday 26th Nov 2026 - Schedule Time UK GMT": {
+        "All Soccer Events ⚽": [
+            {
+                "time": "23:00",
+                "event": "⚽ Campeonato Brasileiro Serie A : São Paulo 🇧🇷 vs Remo 🇧🇷",
+                "channels": [
+                    {
+                        "channel_name": "Premiere",
+                        "channel_id": "88"
+                    },
+                    {
+                        "channel_name": "Match! Football 3 Russia",
+                        "channel_id": "138"
+                    }
+                ]
+            }
+        ],
         "Tennis 🎾": []
     }
 }
