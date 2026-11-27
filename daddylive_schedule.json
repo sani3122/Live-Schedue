@@ -1,17 +1,35 @@
 {
-    "Thursday 26th Nov 2026 - Schedule Time UK GMT": {
+    "Friday 27th Nov 2026 - Schedule Time UK GMT": {
         "All Soccer Events ⚽": [
             {
-                "time": "23:00",
-                "event": "⚽ Campeonato Brasileiro Serie A : São Paulo 🇧🇷 vs Remo 🇧🇷",
+                "time": "22:00",
+                "event": "⚽ International Friendly : Jamaica 🇯🇲 vs Costa Rica 🇨🇷",
                 "channels": [
                     {
-                        "channel_name": "Premiere",
+                        "channel_name": "TUDN USA",
+                        "channel_id": "66"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "⚽ Brasileirão Serie A : Fluminense 🇧🇷 vs Cruzeiro 🇧🇷",
+                "channels": [
+                    {
+                        "channel_name": "Premiere Brazil",
                         "channel_id": "88"
                     },
                     {
                         "channel_name": "Match! Football 3 Russia",
                         "channel_id": "138"
+                    },
+                    {
+                        "channel_name": "Sportdigital FUSSBALL",
+                        "channel_id": "571"
+                    },
+                    {
+                        "channel_name": "Sport 2 Israel",
+                        "channel_id": "141"
                     }
                 ]
             }
